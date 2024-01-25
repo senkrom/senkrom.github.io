@@ -1,0 +1,23 @@
+p { color: red;
+
+    font-size: 100px;
+    text-align:center;
+
+}
+h1 {
+    text-align:center;
+    color:blue;
+}
+
+div {
+    background-color: grey;
+}
+
+table {
+    text-align:center;
+    width:3400x;
+}
+ tr{
+    text-align:center;
+ }
+ 
